@@ -1,5 +1,5 @@
 # portfolio-website
-  # My Portfolio Website
+# My Portfolio Website
 
 Welcome to my portfolio website! This site showcases my skills as a junior full-stack developer, featuring projects and information about my experience.
 
