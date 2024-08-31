@@ -1,2 +1,10 @@
 # portfolio-website
-  Just launched my first portfolio on GitHub! - 💻 Featuring some of my latest projects. - 🌱 Excited to learn and grow as a developer. - 🔗 Check it out and let me know what you think! 
+  # My Portfolio Website
+
+Welcome to my portfolio website! This site showcases my skills as a junior full-stack developer, featuring projects and information about my experience.
+
+## Technologies
+
+- *HTML*
+- *CSS*
+ 
